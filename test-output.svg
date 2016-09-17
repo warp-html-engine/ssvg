@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> 
+<svg width="230mm" height="230mm" viewBox="0 0 209.090909 209.090909" 
+    xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"> 
+<g transform="scale(1, -1) translate(104.545455, -104.545455)" > 
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="0ms" dur="1000ms" fill="freeze" />
+<line x1="0.000000" y1="0.000000" x2="80.000000" y2="80.000000"  style="fill:none;stroke:#000000;stroke-width:0.272727" opacity="1.000000" /> 
+<text transform=" translate(0.000000,0.000000) scale(1, -1)"  style="fill:#000000;stroke:none;stroke-width:0.000000;font-size:0.272727em" >Test</text>
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="1000ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="1200ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="10.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="1200ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="1400ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="20.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="1400ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="1600ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="30.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="1600ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="1800ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="40.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="1800ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="2000ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="50.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="2000ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="2200ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="60.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="2200ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="2400ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="70.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="2400ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="2600ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="80.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="2600ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="2800ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="90.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+<g visibility="hidden">
+<set attributeName="visibility" attributeType="CSS" to="visible" begin="2800ms" dur="200ms" fill="freeze" />
+<set attributeName="visibility" attributeType="CSS" to="hidden" begin="3000ms" dur="1s" fill="freeze" />
+<circle cx="0.000000" cy="0.000000" r="100.000000"  style="fill:none;stroke:red;stroke-width:0.272727" opacity="1.000000" /> 
+</g>
+</g>
+</svg>
