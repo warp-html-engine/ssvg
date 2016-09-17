@@ -1,5 +1,7 @@
 # ssvg
 
+[![Build Status](https://travis-ci.org/hex2010/ssvg.svg?branch=master)](https://travis-ci.org/hex2010/ssvg)
+
 Package for generate simple SVG, support muti-frame animation.
 
 [https://github.com/hex2010/ssvg](https://github.com/hex2010/ssvg)
