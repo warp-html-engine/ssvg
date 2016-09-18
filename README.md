@@ -2,9 +2,34 @@
 
 [![Build Status](https://travis-ci.org/hex2010/ssvg.svg?branch=master)](https://travis-ci.org/hex2010/ssvg)
 
-Package for generate simple SVG, support muti-frame animation.
+Package for generate simple SVG, support multi-frame animation.
 
 [https://github.com/hex2010/ssvg](https://github.com/hex2010/ssvg)
+
+
+[swift version](https://github.com/hex2010/swift-simple-svg)
+
+[C++ version](https://github.com/hex2010/write_svg) (without multi-frame support)
+
+
+## Demo SVG generated with these classes.
+
+One of my projects use the [swift version of this package](https://github.com/hex2010/swift-simple-svg) to output internal data,
+
+Theoretically this `Golang` version can also generate similar result.
+
+click thumbnail to see what they look like:
+
+
+[![Sweep-Line Triangulation](https://github.com/hex2010/swift-simple-svg/blob/master/demo/sweep-tri.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/sweep-tri.svg?raw=true)
+
+
+[![Voronoi](https://github.com/hex2010/swift-simple-svg/blob/master/demo/voronoi.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/voronoi.svg?raw=true)
+
+
+[![Countours](https://github.com/hex2010/swift-simple-svg/blob/master/demo/contours.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/countours.svg?raw=true)
+
+
 
 ## Usage
 
