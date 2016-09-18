@@ -21,13 +21,13 @@ Theoretically this `Golang` version can also generate similar result.
 click thumbnail to see what they look like:
 
 
-[![Sweep-Line Triangulation](https://github.com/hex2010/swift-simple-svg/blob/master/demo/sweep-tri.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/sweep-tri.svg?raw=true)
+[![Sweep-Line Triangulation](https://github.com/hex2010/swift-simple-svg/blob/master/demo/sweep-tri.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/sweep-tri.svg)
 
 
-[![Voronoi](https://github.com/hex2010/swift-simple-svg/blob/master/demo/voronoi.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/voronoi.svg?raw=true)
+[![Voronoi](https://github.com/hex2010/swift-simple-svg/blob/master/demo/voronoi.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/voronoi.svg)
 
 
-[![Countours](https://github.com/hex2010/swift-simple-svg/blob/master/demo/contours.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/countours.svg?raw=true)
+[![Countours](https://github.com/hex2010/swift-simple-svg/blob/master/demo/contours.png?raw=true)](https://github.com/hex2010/swift-simple-svg/blob/master/demo/contours.svg)
 
 
 
